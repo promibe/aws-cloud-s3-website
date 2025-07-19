@@ -23,14 +23,14 @@ Amazon Simple Storage Service (S3) allows users to host static websites easily a
 
 ## File Structure
 
-``bash
+```bash
 .
 ├── index.html
 ├── images
 |    |--- Headshot.jpg
 |
 └── README.md
-
+```
 
 
 ## What I Learned
