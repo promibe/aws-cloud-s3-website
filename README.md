@@ -27,8 +27,7 @@ Amazon Simple Storage Service (S3) allows users to host static websites easily a
 .
 ├── index.html
 ├── images
-|    |--- Headshot.jpg
-|
+|    ├── Headshot.jpg
 └── README.md
 ```
 
